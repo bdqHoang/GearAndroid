@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738330534284",
+    "project_id": "android-gear-6ef95",
+    "storage_bucket": "android-gear-6ef95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738330534284:android:e43af92ca2a58f49ac76a9",
+        "android_client_info": {
+          "package_name": "com.example.doanandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738330534284-kafck3po42bj2dm1vknk3n9uknm7qlcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PVrGlVyFXfiQhg5w_Qfk44rLXtYDMY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738330534284-kafck3po42bj2dm1vknk3n9uknm7qlcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
