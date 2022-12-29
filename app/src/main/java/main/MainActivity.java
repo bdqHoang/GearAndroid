@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 /*
     DatabaseReference data;
 */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,6 +43,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onChildAdded(@NonNull DataSnapshot snapshot, @Nullable String previousChildName) {
                 System.out.println(snapshot.child("orderDetail").child("pro1").child("quantity").getValue().toString());
+        /*data = FirebaseDatabase.getInstance().getReference("Invoice");
+        data.addChildEventListener(new ChildEventListener() {
+            @Override
+            public void onChildAdded(@NonNull DataSnapshot snapshot, @Nullable String previousChildName) {
+                System.out.println(snapshot.child("createdAt").getValue().toString());
+main
             }
 
             @Override
