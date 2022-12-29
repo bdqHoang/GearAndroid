@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">738330534284-kafck3po42bj2dm1vknk3n9uknm7qlcu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">738330534284</string>
+    <string name="google_api_key" translatable="false">AIzaSyC1PVrGlVyFXfiQhg5w_Qfk44rLXtYDMY8</string>
+    <string name="google_app_id" translatable="false">1:738330534284:android:e43af92ca2a58f49ac76a9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC1PVrGlVyFXfiQhg5w_Qfk44rLXtYDMY8</string>
+    <string name="google_storage_bucket" translatable="false">android-gear-6ef95.appspot.com</string>
+    <string name="project_id" translatable="false">android-gear-6ef95</string>
+</resources>
